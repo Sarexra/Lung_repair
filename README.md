@@ -2,7 +2,7 @@
 Code and data for the manuscript "Tidal  ventilation induces divergent repair responses in lung epithelial cells and fibroblasts mediated by IL-6  signalling"
 The folder contains the following files:
 
-- "Lung_repair.R": R script used to load and process all the data files described below, which are required to be in the same directory. All the analyses and figures shown in the manuscript are generated with this script.
+- "Lung_repair.R": R script used to load and process all the data files described below. All the analyses and figures shown in the manuscript are generated with this script.
   
 - "Wound_healing_BEAS.xlsx": Raw data used to quantify the wound healing assay in BEAS-2B cells supplemented with BALF from MV or CPAP patients.
   
