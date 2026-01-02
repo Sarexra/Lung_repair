@@ -21,5 +21,7 @@ The folder contains the following files:
 - "transcripts_MRC5_toci_github.rds": Count matrix from MRC5 RNA-seq samples supplemented with BALF from MV or CPAP patients treated with tocilizumab.
   
 - "Proteomics_BALF_github.rds": Protein abundance matrix obtained from BALF proteomic analysis from patients under MV or CPAP.
+
+- "human_lr_pair.rds":Database of human ligand–receptor pairs from CellTalkDB.
   
 - "qPCR_BEAS_CsA": Raw qPCR data from IL-6 and PPIA relative expression in BEAS-2B cell line supplemented with BALF from MV or CPAP patients treated with cyclosporine-A (CsA).
