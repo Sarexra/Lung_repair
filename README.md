@@ -36,3 +36,5 @@ The folder contains the following files:
   STRING protein-protein interaction network was downloaded from the STRING website: https://version-11-5.string-db.org/cgi/download?sessionId=b4uePWoT3fVG
   
 - "qPCR_BEAS_CsA": Raw qPCR data from IL-6 and PPIA relative expression in BEAS-2B cell line supplemented with BALF from MV or CPAP patients treated with cyclosporine-A (CsA).
+
+Note: The string data is loaded in the code using: <- read.table("9606.protein.links.v11.5.txt", header = T)"
