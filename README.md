@@ -7,10 +7,12 @@ The folder contains the following files:
 - "Wound_healing_BEAS.xlsx": Sheet 1. Raw data used to quantify the wound healing assay in BEAS-2B cells supplemented with BALF from MV or CPAP patients.
   
 - "transcripts_BEAS_github.rds": Count matrix from BEAS-2B RNA-seq samples supplemented with BALF from MV or CPAP patients.
+  The STRING network data are available to download here: https://version-11-0.string-db.org/cgi/download.pl
   
 - "Wound_healing_MRC5.xlsx": Sheet 1. Raw data used to quantify the wound healing assay in MRC5 cells supplemented with BALF from MV or CPAP patients.
   
 - "transcripts_MRC5_github.rds": count matrix from MRC5 RNA-seq samples supplemented with BALF from MV or CPAP patients.
+  The STRING network data are available to download here: https://version-11-0.string-db.org/cgi/download.pl
   
 - "Wound_healing_BEAS.xlsx": Sheet 2. Raw data used to quantify the wound healing assay in BEAS-2B cells with BALF from MV or CPAP patients treated with tocilizumab.
   
@@ -23,5 +25,6 @@ The folder contains the following files:
 - "Proteomics_BALF_github.rds": Protein abundance matrix obtained from BALF proteomic analysis from patients under MV or CPAP.
 
 - "human_lr_pair.rds":Database of human ligand–receptor pairs from CellTalkDB.
+  The STRING network data are available to download here: https://version-11-0.string-db.org/cgi/download.pl
   
 - "qPCR_BEAS_CsA": Raw qPCR data from IL-6 and PPIA relative expression in BEAS-2B cell line supplemented with BALF from MV or CPAP patients treated with cyclosporine-A (CsA).
