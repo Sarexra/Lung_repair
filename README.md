@@ -30,7 +30,7 @@ The folder contains the following files:
   
 - "transcripts_MRC5_toci_github.rds": Count matrix from MRC5 RNA-seq samples supplemented with BALF from MV or CPAP patients treated with tocilizumab.
   
-- "proteins_abundance_github.rds": Protein abundance matrix obtained from BALF proteomic analysis from patients under MV or CPAP.
+- "protein_abundance_github.rds": Protein abundance matrix obtained from BALF proteomic analysis from patients under MV or CPAP.
 
 - "human_lr_pair.rds": Database of human ligand–receptor pairs from CellTalkDB.
   STRING protein-protein interaction network was downloaded from the STRING website: https://version-11-5.string-db.org/cgi/download?sessionId=b4uePWoT3fVG
