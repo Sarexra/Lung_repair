@@ -1,3 +1,5 @@
+########### Tidal ventilation, lung repair and IL-6 signalling ##################################
+
 if (!require("devtools")) 
   install.packages("devtools")
 
@@ -75,7 +77,7 @@ library(DESeq2)
 ah_BEAS <- AnnotationHub()
 edb_BEAS <- ah_BEAS[["AH73986"]]
 
-txi_BEAS<- readRDS("transcripts_BEAS_github_rds")
+txi_BEAS<- readRDS("transcripts_BEAS_github.rds")
 View(txi_BEAS$counts)
 
 
@@ -879,7 +881,7 @@ ggplot(as.data.frame(res_MRC5_toci), aes(x=log2FoldChange, y=-log10(padj)))+
 
 # 5. BALF proteomic ####
 
-expr <- readRDS("proteins_abundance_github.rds")
+expr <- readRDS("protein_abundance_github.rds")
 
 conditions <- factor(c(rep("VM", 8), rep("CPAP", 4)),
                      levels = c("VM", "CPAP"))
